@@ -1,4 +1,3 @@
-@@ -0,0 +1,243 @@
 #!/bin/bash
 # SayCheese v1.0
 # coded by: github.com/thelinuxchoice/saycheese
@@ -16,7 +15,7 @@ printf "\e[1;92m  |||||||||||  |       \e[0m\e[1;77m      c       e      m    mm
 printf "\e[1;92m  |            |       \e[0m\e[1;77m       ccccc  e eee  m            m  r  rrr r  a     a   \e[0m\n"
 printf "\e[1;92m  |            |       \e[0m                                 \n"
 
-printf " \e[1;77m v1.0 coded by github.com/thelinuxchoice/saycheese\e[0m \n"
+printf " \e[1;77m v1.0 marjana kauahik/p1cemra\e[0m \n"
 
 printf "\n"
 
